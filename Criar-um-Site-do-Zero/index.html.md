@@ -3,15 +3,24 @@
     <head>
          <title>Descobrindo o Universo Digital: Como Construir um Site do Zero</title>
          <link rel="stylesheet" href="styles.css"/>
+         <link rel="preconnect" href="https://fonts.googleapis.com">
+         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+         <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap" rel="stylesheet">
+         <meta name="viewport" content="width=device-width,initial-scale=1.0">
+         <meta charset="urt-8">
     </head>
 
     <body>
-        <div class = "chat-container1">
+        <div>
          <header><h1>Descobrindo o Universo Digital: Como Construir um Site do Zero</h1></header>
         </div>
 
-        <div class="chat-container2">
-         <div class="menssage1">
+        <section>
+            <div>
+                <img src="anime.png " alt="E-Girl" width="583.3" height="833.3">
+            </div>
+         <div class="chat-container1">
+          <div class="menssage1">
              <h4>Na era digital, estabelecer uma presença na internet vai além de uma escolha; é uma exigência. Seja para divulgar uma empresa, compartilhar interesses ou construir um portfólio, a elaboração de um site tornou-se uma etapa crucial. Mas como concretizar essa ideia? Vamos investigar os passos essenciais para a criação de um site do zero.</h4>
             
              <div>
@@ -30,14 +39,13 @@
                 <break><h3>7. Permaneça e se atualize</h3></break>
                     <h4>Um site não é um projeto imutável; necessita de manutenção regular. Mantenha o conteúdo atualizado com frequência, inclua novas funcionalidades e esteja atento às opiniões dos usuários. Isso não apenas preserva a relevância do site, mas também aprimora seu desempenho nos mecanismos de busca.</h4>
             </div>
+          </div>
          </div>
-        </div>
-        <section>
             <div>
                 <h2>Siga passo a passo o tutorial a seguir:</h2>
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/pWbwNEN5Xvc?si=5H_MXz6nucoDN3Os" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                 <p>#nerdsnegocios #einerd #website #tutorial #fy #foryou</p>
-            <div class = "chat-container3">
+            <div class = "chat-container2">
                 <div class = "menssage2">
                 <break><h4>Desenvolver um site pode parecer um desafio, mas com um planejamento apropriado e as ferramentas adequadas, qualquer pessoa pode estabelecer sua presença na internet. Em um mundo onde a presença digital é cada vez mais crucial, é essencial dar esse passo. Portanto, prepare-se e inicie o caminho para a transformação digital - o seu futuro na internet está à sua espera!</h4></break>
              </div> 
